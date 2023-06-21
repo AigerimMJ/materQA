@@ -1,4 +1,4 @@
 package git2;
 
-public class General {
+public class GeneralFunction {
 }

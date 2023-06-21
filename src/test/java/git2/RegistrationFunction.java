@@ -1,4 +1,4 @@
 package git2;
 
-public interface Registration {
+public interface RegistrationFunction {
 }
